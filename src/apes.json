@@ -1,0 +1,83 @@
+{ 
+    "name": "Bored Ape Yatch Club",
+    "nfts":[
+        {
+            "id":"#858",
+            "price":"74.89 ETH",
+            "owner":"fived5",
+            "img":"https://img.seadn.io/files/282f2571f72e2f4c6597dc36885923b8.png?fit=max&w=2000"
+        },
+        {
+            "id":"#5449",
+            "price":"185 ETH",
+            "owner":"ApeApeNFTs",
+            "img":"https://img.seadn.io/files/1cfb32df37907b44b1ee32e3db999c8e.png?fit=max&w=2000"
+        },
+        {
+            "id":"#6472",
+            "price":"8998 ETH",
+            "owner":"Metaverse",
+            "img":"https://img.seadn.io/files/e5774d45ae3cbe8bdc0c9748564a3b10.png?fit=max&w=2000"
+        },{
+            "id":"#3756",
+            "price":"699.6 ETH",
+            "owner":"Ethena",
+            "img":"https://img.seadn.io/files/4e324a79015212ea8a0a7347bbfc8c79.png?fit=max&w=2000"
+        },{
+            "id":"#5664",
+            "price":"1000 ETH",
+            "owner":"DVEE",
+            "img":"https://img.seadn.io/files/2f1ba270a24873cb6288041543ced623.png?fit=max&w=2000"
+        },{
+            "id":"#5230",
+            "price":"1,542 ETH",
+            "owner":"ck_",
+            "img":"https://img.seadn.io/files/6fd00d2c270b32be4aa795354727f3c5.png?fit=max&w=2000"
+        },{
+            "id":"#3953",
+            "price":"1500 ETH",
+            "owner":"2B9894",
+            "img":"https://img.seadn.io/files/1b6dede07cf376821d625079a7bf695a.png?fit=max&w=2000"
+        },{
+            "id":"#6083",
+            "price":"888 ETH",
+            "owner":"ToTheMoon333VAUL",
+            "img":"https://img.seadn.io/files/6449202142424ade88b631c5bbb58a52.png?fit=max&w=2000"
+        },{
+            "id":"#5673",
+            "price":"999 ETH",
+            "owner":"Yahtz",
+            "img":"https://img.seadn.io/files/7c5661d4a7ed4da6360b6caeae2287fb.png?fit=max&w=2000"
+        },{
+            "id":"#3716",
+            "price":"9999 ETH",
+            "owner":"HefnerAvatar",
+            "img":"https://img.seadn.io/files/3fb0c799e4b5673a09d2bc63e651d2b2.png?fit=max&w=2000"
+        },{
+            "id":"#190",
+            "price":"225 ETH",
+            "owner":"VibesMuseum",
+            "img":"https://img.seadn.io/files/13ade28c8664c1bd3ec7b6eea0e6ad41.png?fit=max&w=2000"
+        },{
+            "id":"#4174",
+            "price":"70 ETH",
+            "owner":"AD934C",
+            "img":"https://img.seadn.io/files/0fe4f3ad834af98d12d280380b7e9c72.png?fit=max&w=2000"
+        },{
+            "id":"#2369",
+            "price":"72 ETH",
+            "owner":"AD934C",
+            "img":"https://img.seadn.io/files/c8300296752ce7c6f408b2753aaa23b8.png?fit=max&w=2000"
+        },{
+            "id":"#3015",
+            "price":"74.49 ETH",
+            "owner":"AD934C",
+            "img":"https://img.seadn.io/files/2808b692672a30098b20724242c18657.png?fit=max&w=2000"
+        },{
+            "id":"#1636",
+            "price":"75 ETH",
+            "owner":"AD934C",
+            "img":"https://img.seadn.io/files/684f65d4ac4d24c466f46b295cd9d272.png?fit=max&w=2000"
+        }
+    ]
+}

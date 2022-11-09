@@ -6,6 +6,9 @@ module.exports = {
       colors: {
         green: "#b2b51e",
       },
+      fontFamily: {
+        inter: ["Inter", "mono"],
+      },
     },
   },
   plugins: [],

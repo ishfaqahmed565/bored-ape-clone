@@ -4,7 +4,7 @@
     <div class="relative search-bar">
       <input
         type="text"
-        class="border-4 border-green rounded-lg py-2 px-3 w-[15rem] text-xs placeholder-gray-300"
+        class="border-4 border-green rounded-md py-2 px-3 w-[15rem] text-xs placeholder-gray-300"
         placeholder="Search here.."
       />
       <button
