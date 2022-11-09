@@ -17,7 +17,9 @@
         </div>
       </button>
     </div>
-    <h2 class="text-green italic text-4xl font-extrabold w-1/2 leading-[3rem]">
+    <h2
+      class="text-green italic text-3xl sm:text-4xl font-extrabold w-1/2 sm:leading-[3rem]"
+    >
       Mint your bored ape
     </h2>
   </div>

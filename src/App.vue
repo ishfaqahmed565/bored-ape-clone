@@ -22,7 +22,9 @@ nfts.fill();
 </script>
 
 <template>
-  <div class="flex justify-between text-white font-inter text-white">
+  <div
+    class="main-container flex justify-between text-white font-inter text-white"
+  >
     <video autoplay muted loop id="myVideo">
       <source
         src="https://ik.imagekit.io/bayc/assets/club-landing.mp4"
@@ -30,7 +32,7 @@ nfts.fill();
       />
     </video>
     <div
-      class="px-6 py-4 space-y-[2rem] sm:space-y-[3rem] md:space-y-[5rem] flex flex-col w-3/4 grow"
+      class="px-6 py-4 space-y-[5rem] sm:space-y-[3rem] md:space-y-[5rem] flex flex-col w-3/4 grow"
     >
       <NavbarItem />
 
@@ -61,5 +63,11 @@ nfts.fill();
 }
 .bidButton {
   margin: 20px;
+}
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  position: absolute;
 }
 </style>

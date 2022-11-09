@@ -35,13 +35,15 @@ function changeSelectedNft(data) {
   </div>
 </template>
 <style scoped>
-*::-webkit-scrollbar {
-  width: 100%;
+@media only screen and (min-width: 600px) {
+  *::-webkit-scrollbar {
+    width: 100%;
 
-  height: 12px;
-  border: 2px solid #b2b51e;
-}
-#style-4::-webkit-scrollbar-thumb {
-  background-color: #000000;
+    height: 12px;
+    border: 2px solid #b2b51e;
+  }
+  #style-4::-webkit-scrollbar-thumb {
+    background-color: #000000;
+  }
 }
 </style>
